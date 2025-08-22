@@ -1,3 +1,7 @@
 welcome to devops lab
 this is line 2
+<<<<<<< HEAD
 this is modified
+=======
+this is line 3
+>>>>>>> feature-branch
